@@ -1,10 +1,9 @@
-
-  {
-  "posts": 
-    [
-     "id": 1, 
-     "Name": "TrialName_1"     
-    ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "TrialName_1"
+    }
+  ]
   
-  }
-
+}
